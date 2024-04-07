@@ -11,7 +11,13 @@
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bp0609&show_icons=true&locale=en" alt="bp0609" /></p>
 </div><br>
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bp0609&theme=dark" alt="GitHub Streak" /></a>
+</div>
 
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bp0609&layout=compact&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
+</div>
 
 # :hammer_and_wrench: Languages and Tools :
 <!-- <div>
