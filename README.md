@@ -19,7 +19,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bp0609&layout=compact&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
 </div>
 
-# :hammer_and_wrench: Languages and Tools :
+<!-- # :hammer_and_wrench: Languages and Tools :-->
 <!-- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
