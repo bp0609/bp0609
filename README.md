@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" style="float: right;" />
 </div>
 </span>
-🌟 Welcome to my GitHub universe! A sophomore at IIT Gandhinagar diving deep into the realms of Computer Science. Join me on this journey of innovation as we unravel the mysteries of data and shape the future through code and creativity. Let's collaborate, learn, and code our way to new horizons! 💡🚀
+🌟 Welcome to my GitHub universe! A final year UG at IIT Gandhinagar diving deep into the realms of Computer Science. Join me on this journey of innovation as we unravel the mysteries of data and shape the future through code and creativity. Let's collaborate, learn, and code our way to new horizons! 💡🚀
 - 📫 Reach out me at bhavik.patel@iitgn.ac.in
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bp0609&label=Profile%20views&color=0e75b6&style=flat" alt="bp0609" /> </p>
 <div align="center">
